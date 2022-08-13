@@ -1,6 +1,6 @@
 from pathlib import Path
 API_TOKEN = 'BOT TOKEN'
 BASE_DIR = Path(__file__).resolve().parent.parent
-GROUP_ID = #Group id
-ADMIN_ID = #admin1 id 
-ADMIN_ID2 = #admin2 id
+GROUP_ID = -1001750039211
+ADMIN_ID = 1144957860
+ADMIN_ID2 = 767622723
