@@ -1,2 +1,0 @@
-# TrainingCenter
-training center
